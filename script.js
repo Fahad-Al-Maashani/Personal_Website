@@ -32,12 +32,15 @@ function drawMatrix() {
 }
 setInterval(drawMatrix, 50);
 
-// — SMOOTH SCROLL —
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+// — SMOOTH SCROLL ENHANCED —
+document.querySelectorAll('.nav-list a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', e => {
     e.preventDefault();
-    document.querySelector(anchor.getAttribute('href'))
-            .scrollIntoView({ behavior: 'smooth' });
+    const targetSection = document.querySelector(anchor.getAttribute('href'));
+
+    if (targetSection) {
+      targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   });
 });
 
