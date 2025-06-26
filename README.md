@@ -6,11 +6,6 @@
 </p>
 
 > This project will hold and render a personal website contents based on my CV
-# Fahad Al Maashani – Personal Website 🌐
-
-Welcome! I’m Fahad Al Maashani, a tech enthusiast from Salalah, Oman—fusing software, embedded systems & hardware to bring ideas to life. This site is my digital presence showcasing my projects, skills, and contact information.
-
----
 
 ## 🚀 About
 
@@ -18,7 +13,6 @@ This personal website serves as a portfolio and professional hub:
 - Showcases featured projects in software, AI, embedded systems, and hardware.
 - Highlights skills, tech stack insights, and development journey.
 - Provides a way to connect—social links, email, and more.
-
 ---
 
 ## ⚙️ Features
