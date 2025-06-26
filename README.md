@@ -54,7 +54,7 @@ npm start
 
 👤 **Fahad Al Maashani**
 
-* Github: [@Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani)
+* Github: https://github.com/Fahad-Al-Maashani
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/fahad-al-maashani-428bbb190\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/fahad-al-maashani-428bbb190\/)
 
 ## Show your support
