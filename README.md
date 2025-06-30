@@ -10,7 +10,7 @@
 ## 🚀 About
 
 This personal website serves as a portfolio and professional hub:
-- Showcases featured projects in software, AI, embedded systems, and hardware.
+- Showcases featured projects in my domain.
 - Highlights skills, tech stack insights, and development journey.
 - Provides a way to connect—social links, email, and more.
 ---
